@@ -2,4 +2,4 @@
 
 ## Introduction
 
-This course was offered in winter 2023. "DataTalks.Club" organized this course.
+This course was offered in winter 2024. "DataTalks.Club" organized this course.
