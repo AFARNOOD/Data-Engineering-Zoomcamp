@@ -10,7 +10,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 
 
 ## Syllabus
-<br> * Module 1: Containerization and Infrastructure as Code:
+<br> Module 1: Containerization and Infrastructure as Code:
 * Course overview
 * Introduction to GCP
 * Docker and docker-compose
