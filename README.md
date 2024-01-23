@@ -30,3 +30,24 @@ Module 1: Containerization and Infrastructure as Code <a name="Module 1: Contain
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
+
+
+# My GitHub Repository
+
+Welcome to my awesome project!
+
+## Table of Contents
+
+- [Section 1](#section-1)
+- [Section 2](#section-2)
+
+## Section 1 <a name="section-1"></a>
+
+Some content for section 1...
+
+## Section 2 <a name="section-2"></a>
+
+Some content for section 2...
+
+For more information, see [Section 1](#section-1).
+
