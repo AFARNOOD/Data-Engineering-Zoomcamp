@@ -20,7 +20,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 <br> - Stream Processing with SQL
 
 
-<br> Module 1: Containerization and Infrastructure as Code:
+<br> Module 1: Containerization and Infrastructure as Code
 * Course overview
 * Introduction to GCP
 * Docker and docker-compose
