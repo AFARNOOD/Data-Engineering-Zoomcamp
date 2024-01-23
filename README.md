@@ -36,12 +36,12 @@ Module 1: Containerization and Infrastructure as Code <a name="Module 1: Contain
 
 Welcome to my awesome project!
 
-## Table of Contents
+## Syllabus
 
-- [Section 1](#section-1)
+- [Module 1: Containerization and Infrastructure as Code](#section-1)
 - [Section 2](#section-2)
 
-## Section 1 <a name="section-1"></a>
+## Module 1: Containerization and Infrastructure as Code <a name="section-1"></a>
 
 Some content for section 1...
 
