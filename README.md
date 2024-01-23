@@ -11,7 +11,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 
 ## Syllabus
 <br> - Containerization and Infrastructure as Code 
-<br> (#heading-1 "Goto Module 1: Containerization and Infrastructure as Code")
+<br> [Module 1: Containerization and Infrastructure as Code](#heading-1 "Goto Module 1: Containerization and Infrastructure as Code")
 <br> - Workflow Orchestration
 <br> - Data Ingestion
 <br> - Data Warehouse
@@ -21,7 +21,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 <br> - Stream Processing with SQL
 
 ## Detailed Syllabus
-<br> [Module 1: Containerization and Infrastructure as Code]
+### Module 1: Containerization and Infrastructure as Code:
 * Course overview
 * Introduction to GCP
 * Docker and docker-compose
