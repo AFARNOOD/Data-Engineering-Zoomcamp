@@ -21,13 +21,19 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 
 ## Detailed Syllabus
 Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
-* Course overview
 * Introduction to GCP
 * Docker and docker-compose
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
 
+## Detailed Syllabus
+Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
+* Introduction to GCP
+* Docker and docker-compose
+* Running Postgres locally with Docker
+* Setting up infrastructure on GCP with Terraform
+* Preparing the environment for the course
 
 # My GitHub Repository
 
