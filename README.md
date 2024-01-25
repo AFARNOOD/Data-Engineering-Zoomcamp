@@ -10,10 +10,8 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 
 
 ## Syllabus
-- [Module 1: Containerization and Infrastructure as Code](#module 1: Containerization and Infrastructure as Code)
-
-<br> - Containerization and Infrastructure as Code 
-<br> - Module 1: Containerization and Infrastructure as Code
+<br> - [Module 1: Containerization and Infrastructure as Code](#module 1: Containerization and Infrastructure as Code)
+<br> - [Module 2: Workflow Orchestration](#module 2: Workflow Orchestration)
 <br> - Workflow Orchestration
 <br> - Data Ingestion
 <br> - Data Warehouse
@@ -83,7 +81,7 @@ Welcome to my awesome project!
 
 
 
-## Module 1: Containerization and Infrastructure as Code <a name="section-1"></a>
+## Module 2: Workflow Orchestration <a name="Module 2: Workflow Orchestration"></a>
 
 Some content for section 1...
 <br>
@@ -110,7 +108,7 @@ Some content for section 1...
 <br>
 <br>
 <br>
-
+## Module 2: Containerization and Infrastructure as Code <a name="section-1"></a>
 
 
 
