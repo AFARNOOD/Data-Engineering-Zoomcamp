@@ -20,59 +20,13 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 <br> - [Workshop 2: Stream Processing with SQL](#workshop2)
 
 ## Detailed Syllabus
-Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
+
+### Module 1: Containerization and Infrastructure as Code <a name="module1"></a>
 * Introduction to GCP
 * Docker and docker-compose
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
-
-## Detailed Syllabus
-Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
-* Introduction to GCP
-* Docker and docker-compose
-* Running Postgres locally with Docker
-* Setting up infrastructure on GCP with Terraform
-* Preparing the environment for the course
-
-# My GitHub Repository
-
-Welcome to my awesome project!
-
-## Syllabus
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-## Module 1: Containerization and Infrastructure as Code <a name="module1"></a>
-Some content for section 1...
 <br>
 <br>
 <br>
