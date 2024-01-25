@@ -81,7 +81,7 @@ Welcome to my awesome project!
 
 
 
-## Module 2: Workflow Orchestration <a name="Module 2: Workflow Orchestration"></a>
+## Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
 Some content for section 1...
 <br>
 <br>
