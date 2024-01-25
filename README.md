@@ -94,7 +94,7 @@ Some content for section 1...
 <br>
 <br>
 <br>
-## Module 2: Workflow Orchestration <a name="Module 2: Workflow Orchestration"></a>
+## Module 2: Workflow Orchestration <a name="module2"></a>
 
 Some content for section 2...
 
