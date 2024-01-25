@@ -68,21 +68,7 @@ Welcome to my awesome project!
 <br>
 <br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
+## Module 1: Containerization and Infrastructure as Code <a name="module1"></a>
 Some content for section 1...
 <br>
 <br>
