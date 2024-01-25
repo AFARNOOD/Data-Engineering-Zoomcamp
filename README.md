@@ -12,15 +12,12 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 ## Syllabus
 <br> - [Module 1: Containerization and Infrastructure as Code](#module1)
 <br> - [Module 2: Workflow Orchestration](#module2)
-
-
-<br> - Workflow Orchestration
-<br> - Data Ingestion
-<br> - Data Warehouse
-<br> - Analytics Engineering
-<br> - Batch processing
-<br> - Streaming
-<br> - Stream Processing with SQL
+<br> - [Workshop 1: Data Ingestion](#workshop1)
+<br> - [Module 3: Data Warehouse](#module3)
+<br> - [Module 4: Analytics Engineering](#module4)
+<br> - [Module 5: Batch processing](#module5)
+<br> - [Module 6: Batch processing](#module6)
+<br> - [Workshop 2: Stream Processing with SQL](#workshop2)
 
 ## Detailed Syllabus
 Module 1: Containerization and Infrastructure as Code <a name="Module 1: Containerization and Infrastructure as Code"></a>
