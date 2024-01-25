@@ -27,33 +27,12 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 * Running Postgres locally with Docker
 * Setting up infrastructure on GCP with Terraform
 * Preparing the environment for the course
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-## Module 2: Workflow Orchestration <a name="module2"></a>
 
-Some content for section 2...
+### Module 2: Workflow Orchestration <a name="module2"></a>
+* Workflow orchestration
+* Workflow orchestration with Mage
 
-For more information, see [Section 1](#section-1).
+### Module 2: Workflow Orchestration <a name="module2"></a>
+* Workflow orchestration
+* Workflow orchestration with Mage
 
