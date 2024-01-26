@@ -35,7 +35,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 ### Module 3: Data Warehouse <a name="module3"></a>
 * Data Warehouse
 * BigQuery
-* Partitioning and clustering
+* Partitioning and clustering 
 * BigQuery best practices
 * Internals of BigQuery
 * BigQuery Machine Learning
