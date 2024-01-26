@@ -12,7 +12,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 ## Syllabus
 <br> - [Module 1: Containerization and Infrastructure as Code](#module1)
 <br> - [Module 2: Workflow Orchestration](#module2)
-<br> - [Workshop 1: Data Ingestion](#workshop1)
+<br> - Workshop 1: Data Ingestion
 <br> - [Module 3: Data Warehouse](#module3)
 <br> - [Module 4: Analytics Engineering](#module4)
 <br> - [Module 5: Batch processing](#module5)
@@ -32,7 +32,11 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 * Workflow orchestration
 * Workflow orchestration with Mage
 
-### Module 2: Workflow Orchestration <a name="module2"></a>
-* Workflow orchestration
-* Workflow orchestration with Mage
+### Module 3: Data Warehouse <a name="module3"></a>
+* Data Warehouse
+* BigQuery
+* Partitioning and clustering
+* BigQuery best practices
+* Internals of BigQuery
+* BigQuery Machine Learning
 
