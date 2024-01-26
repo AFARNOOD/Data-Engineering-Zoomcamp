@@ -49,3 +49,10 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 * Testing and documenting
 * Deployment to the cloud and locally
 * Visualizing the data with google data studio and metabase
+
+### Module 5: Batch processing <a name="module5"></a>
+* Batch processing
+* What is Spark
+* Spark Dataframes
+* Spark SQL
+* Internals: GroupBy and joins
