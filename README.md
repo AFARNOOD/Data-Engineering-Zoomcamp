@@ -40,3 +40,12 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 * Internals of BigQuery
 * BigQuery Machine Learning
 
+### Module 4: Analytics Engineering <a name="module4"></a>
+* Basics of analytics engineering
+* dbt (data build tool)
+* BigQuery and dbt
+* Postgres and dbt
+* dbt models
+* Testing and documenting
+* Deployment to the cloud and locally
+* Visualizing the data with google data studio and metabase
