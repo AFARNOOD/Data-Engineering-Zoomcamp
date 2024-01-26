@@ -56,3 +56,9 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 * Spark Dataframes
 * Spark SQL
 * Internals: GroupBy and joins
+
+### Module 6: Batch processing <a name="module6"></a>
+* Introduction to Kafka
+* Schemas (avro)
+* Kafka Streams
+* Kafka Connect and KSQL
