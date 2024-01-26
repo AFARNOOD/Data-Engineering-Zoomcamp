@@ -17,7 +17,7 @@ This course was offered in winter 2024. "DataTalks.Club" organized this course.
 <br> - [Module 4: Analytics Engineering](#module4)
 <br> - [Module 5: Batch processing](#module5)
 <br> - [Module 6: Batch processing](#module6)
-<br> - [Workshop 2: Stream Processing with SQL](#workshop2)
+<br> - Workshop 2: Stream Processing with SQL
 
 ## Detailed Syllabus
 
